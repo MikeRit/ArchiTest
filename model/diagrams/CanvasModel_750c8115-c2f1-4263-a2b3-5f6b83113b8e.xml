@@ -1,0 +1,29 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="New Canvas"
+    id="750c8115-c2f1-4263-a2b3-5f6b83113b8e">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="6cb7fbe3-f830-475d-b61f-fcb87f521100"
+      borderColor="#000000"
+      imagePath="images/_01KPkEwuEeiMypQehP2JNA.png">
+    <bounds
+        y="89"
+        width="865"
+        height="150"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="24d08947-988e-47c7-8da8-458965a73511"
+      fillColor="#ffffff"
+      content="This is a Canvas.&#xD;&#xA;Does it save?&#xD;&#xA;"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="180"
+        y="348"
+        width="589"
+        height="361"/>
+  </children>
+</canvas:CanvasModel>

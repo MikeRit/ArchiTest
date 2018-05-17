@@ -14,20 +14,21 @@
       value="false"/>
   <properties
       key="Report:Model:Hide:Motivation"
-      value="false"/>
+      value="true"/>
   <properties
       key="Report:Model:Hide:Implementation&amp;Migration"
-      value="false"/>
+      value="true"/>
   <properties
       key="Report:Model:Hide:Other"
       value="false"/>
   <properties
       key="Report:Model:Hide:Relations"
-      value="false"/>
+      value="true"/>
   <properties
       key="Report:Model:Hide:Views"
       value="false"/>
   <properties
       key="Report:Model:Hide:ViewNumbering"
       value="true"/>
+  <metadata/>
 </archimate:ArchimateModel>
